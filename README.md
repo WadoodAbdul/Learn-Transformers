@@ -20,7 +20,6 @@ Besides paper reviews, there are also incredible blog posts available. Jay Alamm
 - [Peter Bloem - Transformers from scratch](http://www.peterbloem.nl/blog/transformers)
 - [Lilian Weng - Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 - [Positional Encoding is Transformers](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
-- [Question Classification w/ Transformers](https://thevatsalsaglani.medium.com/question-classification-using-self-attention-transformer-part-1-33e990636e76)
 
 ## Lectures and Talks
 Beyond blog posts and paper reviews, you can also find some amazing lectures & talks on Transformers and self-attention online. Stanford CS224u's lecture goes into more details on the math, BERT and other contextual vectors, whereas the Stanford CS224n guest lecture (by the co-authors of the Transformer and Music Transformer) cover various use cases of self-attention. Rachel (and Jeremy) from fast.ai give another great overview of Transformer in their Intro To NLP course, but also answer some of the common confusions around Transformers such as the query, key, value system and address its application to language translation. Finally, if you want to hear more from the co-authors of the Transformer, Lukasz Kaiser and Ashish Vaswani each gave a wonderful talk on their work at Pi School 2017 and RAAIS 2019 respectively.
@@ -41,6 +40,7 @@ One of the best ways to understand a concept is implementing it in code. Harvard
 - [Transformers in TensorFlow 2.0](https://www.tensorflow.org/beta/tutorials/text/transformer)
 - [NAACL Tutorial Slides](http://tiny.cc/NAACLTransfer)
 - [NAACL Tutorial Colab](http://tiny.cc/NAACLTransferColab)
+- [Question Classification w/ Transformers](https://thevatsalsaglani.medium.com/question-classification-using-self-attention-transformer-part-1-33e990636e76)
 - [Mark Saroufim - Implementing BERT and transformers from scratch](https://www.youtube.com/watch?v=EPa98fyxZ-s&list=WL&index=160&t=5270s)
 - [Aurélién Geron - NLP in action using Transformers](https://www.youtube.com/watch?v=07iAf5_eix0&list=WL&index=107)
 
