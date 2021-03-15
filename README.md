@@ -19,7 +19,8 @@ Besides paper reviews, there are also incredible blog posts available. Jay Alamm
 - [Jay Alammar - The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Peter Bloem - Transformers from scratch](http://www.peterbloem.nl/blog/transformers)
 - [Lilian Weng - Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
-
+- [Positional Encoding is Transformers](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
+- [Question Classification w/ Transformers](https://thevatsalsaglani.medium.com/question-classification-using-self-attention-transformer-part-1-33e990636e76)
 
 ## Lectures and Talks
 Beyond blog posts and paper reviews, you can also find some amazing lectures & talks on Transformers and self-attention online. Stanford CS224u's lecture goes into more details on the math, BERT and other contextual vectors, whereas the Stanford CS224n guest lecture (by the co-authors of the Transformer and Music Transformer) cover various use cases of self-attention. Rachel (and Jeremy) from fast.ai give another great overview of Transformer in their Intro To NLP course, but also answer some of the common confusions around Transformers such as the query, key, value system and address its application to language translation. Finally, if you want to hear more from the co-authors of the Transformer, Lukasz Kaiser and Ashish Vaswani each gave a wonderful talk on their work at Pi School 2017 and RAAIS 2019 respectively.
@@ -29,6 +30,9 @@ Beyond blog posts and paper reviews, you can also find some amazing lectures & t
 - [fastai Introduction to Transformers](https://www.youtube.com/watch?v=AFkGPmU16QA&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9&index=18&t=848s)
 - [Lukasz Kaiser's Talk](https://www.youtube.com/watch?v=rBCqOTEfxvg&t=1075s)
 - [Ashish Vaswani's Talk](https://www.youtube.com/watch?v=5vcj8kSwBCY&t=1212s)
+- [ChrisMcCormickAI - BERT series](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
+- [Giuliano Giacaglia - How Transformers Work](https://www.youtube.com/watch?v=YNSziIuuSSU&list=WL&index=84)
+- [Michael Phi - Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8&list=WL&index=448)
 
 ## Code Walkthroughs 
 One of the best ways to understand a concept is implementing it in code. Harvard NLP published an annotated version of the original paper with commented-out code in PyTorch, which is discussed in one of the recorded AISC sessions linked below. If you prefer TensorFlow, there is also a TensorFlow 2.0 Tutorial with a Colab notebook that you can run for free. Once you're comfortable with the basic concepts, check out the NAACL Tutorial on Transfer Learning, which has an amazing Colab that teaches you how to pre-train a GPT2-like Transformer, fine-tune it and do multi-task learning as well as an amazing slide deck full of information about recent developments in Transfer Learning for Natural Language Processing. 
@@ -37,7 +41,8 @@ One of the best ways to understand a concept is implementing it in code. Harvard
 - [Transformers in TensorFlow 2.0](https://www.tensorflow.org/beta/tutorials/text/transformer)
 - [NAACL Tutorial Slides](http://tiny.cc/NAACLTransfer)
 - [NAACL Tutorial Colab](http://tiny.cc/NAACLTransferColab)
-
+- [Mark Saroufim - Implementing BERT and transformers from scratch](https://www.youtube.com/watch?v=EPa98fyxZ-s&list=WL&index=160&t=5270s)
+- [Aurélién Geron - NLP in action using Transformers](https://www.youtube.com/watch?v=07iAf5_eix0&list=WL&index=107)
 
 
 ## Follow-Up Papers
