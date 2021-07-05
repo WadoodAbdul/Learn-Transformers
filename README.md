@@ -19,6 +19,7 @@ Besides paper reviews, there are also incredible blog posts available. Jay Alamm
 - [Jay Alammar - The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Peter Bloem - Transformers from scratch](http://www.peterbloem.nl/blog/transformers)
 - [Lilian Weng - Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+- Attention craving RNNs(https://towardsdatascience.com/attention-craving-rnns-a-journey-into-attention-mechanisms-eec840fbc26f)
 - [Positional Encoding is Transformers](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
 
 ## Lectures and Talks
