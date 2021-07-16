@@ -27,6 +27,7 @@ Beyond blog posts and paper reviews, you can also find some amazing lectures & t
    
 - [Stanford CS224u](https://www.youtube.com/watch?v=lzBB7xoZ3Q8&t=746s)
 - [Stanford CS224n](https://www.youtube.com/watch?v=5vcj8kSwBCY&t=1211s)
+- [X] [Pascal Poupart: CS480/680 Lecture 19: Attention and Transformer Networks](https://www.youtube.com/watch?v=OyFJWRnt_AY)
 - [fastai Introduction to Transformers](https://www.youtube.com/watch?v=AFkGPmU16QA&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9&index=18&t=848s)
 - [Lukasz Kaiser's Talk](https://www.youtube.com/watch?v=rBCqOTEfxvg&t=1075s)
 - [Ashish Vaswani's Talk](https://www.youtube.com/watch?v=5vcj8kSwBCY&t=1212s)
